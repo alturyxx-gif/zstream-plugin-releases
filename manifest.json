@@ -1,7 +1,7 @@
 {
-  "latestVersion": 11,
+  "latestVersion": 12,
   "minAppVersion": 3,
-  "downloadUrl": "https://github.com/alturyxx-gif/zstream-plugin-releases/releases/download/v11/plugin-v11.apk",
-  "hash": "sha256:38cc5317ef3a969cdbc0c427a78a71dd9ec665c1579956b9047a12e2243bb525",
-  "displayVersion": "v1.6.1"
+  "downloadUrl": "https://github.com/alturyxx-gif/zstream-plugin-releases/releases/download/v12/plugin-v12.apk",
+  "hash": "sha256:14a135b1f97d961fabd8cf88e448466788d2dd4cabf7103eb8201f91bf619117",
+  "displayVersion": "v1.6.2"
 }
